@@ -1,0 +1,1 @@
+<h2> Atılan bir tweetin metnini analiz ederek kötü kelime içerip içermediğini saptamayı ve hastagler ile bağlantısını graflaştırmayı hedefleyen projem <h2> 
