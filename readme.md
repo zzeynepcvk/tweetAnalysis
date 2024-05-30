@@ -1,4 +1,4 @@
-Tabii, işte projenin genel yapısı hakkında bir özet:
+
 
 ---
 
