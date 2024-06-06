@@ -40,5 +40,5 @@ Bu proje, Türkçe metin analizi ve işleme üzerine yapılan çalışmaları i�
 
 <h2>Proje Posteri </h2>
 
-![](son-ağ-poster (A2 (Yatay)) (1).png)
+<img>![2024-6-6 (1)]()
 
