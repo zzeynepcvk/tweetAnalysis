@@ -40,5 +40,5 @@ Bu proje, Türkçe metin analizi ve işleme üzerine yapılan çalışmaları i�
 
 <h2>Proje Posteri </h2>
 
-<img>![2024-6-6 (1)]()
+<img>![2024-6-6 (1)](https://raw.githubusercontent.com/zzeynepcvk/tweetAnalysis/3e5797624607ae0521ccaa9ff6d55b7ab11f6a76/son-a%C4%9F-poster%20(A2%20(Yatay))%20(1).png)
 
