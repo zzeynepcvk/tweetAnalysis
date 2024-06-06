@@ -36,4 +36,7 @@ Bu proje, Türkçe metinler üzerinde çeşitli ön işleme ve analiz işlemleri
 
 ---
 
-Bu proje, Türkçe metin analizi ve işleme üzerine yapılan çalışmaları içermekte olup, metinlerin anlam düzeyinde analiz edilmesi ve makine öğrenimi modelleriyle sınıflandırılması üzerine odaklanmaktadır. Daha fazla bilgi veya proje ile ilgili sorularınız için iletişime geçebilirsiniz.
+Bu proje, Türkçe metin analizi ve işleme üzerine yapılan çalışmaları içermekte olup, metinlerin anlam düzeyinde analiz edilmesi ve makine öğrenimi modelleriyle sınıflandırılması üzerine odaklanmaktadır. Daha fazla bilgi veya proje ile ilgili sorularınız için iletişime geçebilirsiniz. 
+
+<h2>Proje Posteri </h2>
+
